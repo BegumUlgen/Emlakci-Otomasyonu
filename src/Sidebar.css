@@ -1,0 +1,17 @@
+.sidebar-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 64px; /* Header yüksekliği */
+    background-color: #fff;
+  }
+  
+  .home-icon {
+    font-size: 24px;
+    color: #000;
+  }
+  
+  .menu-bar {
+    margin-top: 20px;
+  }
+  
